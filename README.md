@@ -1,1 +1,0 @@
-Primer hito del hackaton
